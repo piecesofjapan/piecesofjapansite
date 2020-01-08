@@ -9,7 +9,7 @@ published: true
 post_date: 2020-01-06 23:16:37
 ---
 <!-- wp:paragraph -->
-<p>Nestled in the hills of Kyoto prefecture lies the village of Miyama, famous for its traditional thatched roof buildings and for being the home of Hiroyuki Shindo and his prodigious work with indigo. Equal parts gallery, workshop, and residence, the Little Indigo Museum is more than meets the eye. </p>
+<p>Nestled in the hills of Kyoto prefecture lies the village of Miyama, known mostly for its traditional thatched roof buildings and also for being the home of Hiroyuki Shindo and his prodigious work with indigo. Equal parts gallery, workshop, and residence, the Little Indigo Museum is more than meets the eye. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1872,"sizeSlug":"large"} -->
