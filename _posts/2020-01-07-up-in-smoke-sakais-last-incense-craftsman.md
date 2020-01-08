@@ -9,9 +9,11 @@ permalink: >
 published: true
 post_date: 2020-01-07 16:57:46
 ---
-<!-- wp:html -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-4vOPSJYvX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<!-- /wp:html -->
+<!-- wp:core-embed/youtube {"url":"https://youtu.be/-4vOPSJYvX4","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/-4vOPSJYvX4
+</div></figure>
+<!-- /wp:core-embed/youtube -->
 
 <!-- wp:paragraph -->
 <p>Certified as a Living National treasure, Kinzaburo is an aging incense craftsman based in Sakai in the heart of Osaka prefecture. As a one-man operation, he spends his time producing and selling his incense sticks in a small studio-shop.&nbsp;</p>
