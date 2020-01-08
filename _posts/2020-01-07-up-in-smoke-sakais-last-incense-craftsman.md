@@ -10,7 +10,7 @@ published: true
 post_date: 2020-01-07 16:57:46
 ---
 <!-- wp:html -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-4vOPSJYvX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4vOPSJYvX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
@@ -34,7 +34,7 @@ post_date: 2020-01-07 16:57:46
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Kunsyudou</strong><br>2-1 Kitahanchonishi, Sakai Ward, Sakai, Osaka 590-0921, Japan<br>Tel: +81 72-232-2549<br>Hours: Mon-Fri 9am to 5:30pm, Sat &amp; Holidays 10am - 4pm, closed on Sundays</p>
+<p><strong>Kunsyudou</strong><br>2-1 Kitahanchonishi, Sakai Ward, Sakai, <br>Osaka 590-0921, Japan<br><br>Tel: +81 72-232-2549<br>Hours: Mon-Fri 9am to 5:30pm, Sat &amp; Holidays 10am - 4pm, closed on Sundays</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
