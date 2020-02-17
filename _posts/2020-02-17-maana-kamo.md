@@ -1,7 +1,7 @@
 ---
 ID: 1983
 post_title: A guesthouse redefining luxury travel
-author: Tina
+author: Karen Kasuga
 post_excerpt: ""
 layout: post
 permalink: https://piecesofjapan.com/maana-kamo/
