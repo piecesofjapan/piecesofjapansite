@@ -13,19 +13,19 @@ post_date: 2020-02-17 04:12:58
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>That is exactly what founders of <a rel="noreferrer noopener" href="https://www.maanahomes.com/" target="_blank">Maana Homes</a>, Hana and Irene are doing in the heart of Kyoto, Japan. With the intention to have guests rethink the meaning of luxury and travel,  Maana homes captures the refined essence of Kyoto for all guests to enjoy.</p>
+<p>That is exactly what founders of <a rel="noreferrer noopener" href="https://www.maanahomes.com/" target="_blank">Maana Homes</a>, Hana and Irene are doing in the heart of Kyoto, Japan. With the intention to have guests rethink the meaning of luxury and travel,&nbsp; Maana homes captures the refined essence of Kyoto for all guests to enjoy.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1971,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://piecesofjapan.com/wp-content/uploads/2020/02/maana_post01-686x1024.jpg" alt="" class="wp-image-1971"/></figure>
+<!-- wp:image {"id":1986,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://piecesofjapan.com/wp-content/uploads/2020/02/maana_post01-1-686x1024.jpg" alt="" class="wp-image-1986"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>What prompted <a href="https://www.maanahomes.com/">Maana Homes</a> was a single question by Hana,  </p>
+<p>What prompted <a href="https://www.maanahomes.com/">Maana Homes</a> was a single question by Hana,&nbsp; </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>  “Be honest with yourself. <br>What do you have a deep desire to create?” </p></blockquote>
+<blockquote class="wp-block-quote"><p>  “Be honest with yourself. <br>What do you have a deep desire to create?”&nbsp;</p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
@@ -33,7 +33,7 @@ post_date: 2020-02-17 04:12:58
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Having designed hotels from five-star to boutique brands, Irene’s vision was to create a new type of hospitality brand that inspires people, feeling that most approaches were too commercialized and curated. </p>
+<p>Having designed hotels from five-star to boutique brands, Irene’s vision was to create a new type of hospitality brand that inspires people, feeling that most approaches were too commercialized and curated.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1979,"sizeSlug":"large"} -->
@@ -45,7 +45,7 @@ post_date: 2020-02-17 04:12:58
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Upon first meeting at boarding school in California (Hana being from Japan and Irene from Hong Kong) at 11 years old, the two grew close in no time, traveling around Japan every summer to spontaneously explore during their high school years. In hindsight, those trips were the ones that would spark their inspiration and love for travel. </p>
+<p>Upon first meeting at boarding school in California (Hana being from Japan and Irene from Hong Kong) at 11 years old, the two grew close in no time, traveling around Japan every summer to spontaneously explore during their high school years. In hindsight, those trips were the ones that would spark their inspiration and love for travel.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -53,7 +53,7 @@ post_date: 2020-02-17 04:12:58
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>With each house centered around its own philosophy, <a rel="noreferrer noopener" href="https://www.maanahomes.com/kyotooverview" target="_blank">Maana Kyoto</a> being <em>Simple Living</em> and <a rel="noreferrer noopener" href="https://www.maanahomes.com/kamooverview" target="_blank">Kamo</a> being<em> Silence Within</em>, the space was intended to allow for self discovery and quiet contemplation. The interplay of light, shadows and forms, in collaboration with the still ambiance of Kyoto air brings an aura that cannot be put into words, and is one that guests need to feel for themselves. </p>
+<p>With each house centered around its own philosophy, <a rel="noreferrer noopener" href="https://www.maanahomes.com/kyotooverview" target="_blank">Maana Kyoto</a> being <em>Simple Living</em> and <a rel="noreferrer noopener" href="https://www.maanahomes.com/kamooverview" target="_blank">Kamo</a> being<em> Silence Within</em>, the space was intended to allow for self discovery and quiet contemplation. The interplay of light, shadows and forms, in collaboration with the still ambiance of Kyoto air brings an aura that cannot be put into words, and is one that guests need to feel for themselves.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1973,"sizeSlug":"large"} -->
@@ -65,7 +65,7 @@ post_date: 2020-02-17 04:12:58
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>The lingering sense of time and wisdom of a Kyoto Machiya was the perfect location for <a rel="noreferrer noopener" href="https://www.maanahomes.com/about" target="_blank">Maana,</a> as it aligned with their vision to create a new kind of travel experience. Working with <a rel="noreferrer noopener" href="https://piecesofjapan.com/uoya/" target="_blank">Shigenori Uoya</a>, an architect we <a rel="noreferrer noopener" href="https://piecesofjapan.com/uoya/" target="_blank">previously featured</a> who is known for Machiya (townhouse) remodels, Maana has elegantly combined modernity with time honored Japanese design . </p>
+<p>The lingering sense of time and wisdom of a Kyoto Machiya was the perfect location for <a rel="noreferrer noopener" href="https://www.maanahomes.com/about" target="_blank">Maana,</a> as it aligned with their vision to create a new kind of travel experience. Working with <a rel="noreferrer noopener" href="https://piecesofjapan.com/uoya/" target="_blank">Shigenori Uoya</a>, an architect we <a rel="noreferrer noopener" href="https://piecesofjapan.com/uoya/" target="_blank">previously featured</a> who is known for Machiya (townhouse) remodels, Maana has elegantly combined modernity with time honored Japanese design .&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1977,"sizeSlug":"large"} -->
@@ -77,11 +77,11 @@ post_date: 2020-02-17 04:12:58
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Despite the abundance of hotels and guest accommodations around Kyoto, few are this immersive, with the ability to almost touch the most sensitive parts of the human soul. A space that encourages one to stop, enjoy stillness and experience the quiet flow of time might be the most luxurious of all. </p>
+<p>Despite the abundance of hotels and guest accommodations around Kyoto, few are this immersive, with the ability to almost touch the most sensitive parts of the human soul. A space that encourages one to stop, enjoy stillness and experience the quiet flow of time might be the most luxurious of all.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A reminder from <a rel="noreferrer noopener" href="https://www.maanahomes.com/kamooverview" target="_blank">Maana </a> to stay present might be the most valuable gift to take back home from the trip. </p>
+<p>A reminder from <a rel="noreferrer noopener" href="https://www.maanahomes.com/kamooverview" target="_blank">Maana </a> to stay present might be the most valuable gift to take back home from the trip.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
