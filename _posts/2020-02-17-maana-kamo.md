@@ -60,8 +60,8 @@ post_date: 2020-02-17 04:12:58
 <figure class="wp-block-image size-large"><img src="https://piecesofjapan.com/wp-content/uploads/2020/02/maana_post03-1.jpg" alt="" class="wp-image-1988"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":1975,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://piecesofjapan.com/wp-content/uploads/2020/02/maana_post04-686x1024.jpg" alt="" class="wp-image-1975"/></figure>
+<!-- wp:image {"id":1990,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://piecesofjapan.com/wp-content/uploads/2020/02/maana_post04-1-686x1024.jpg" alt="" class="wp-image-1990"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
