@@ -56,8 +56,8 @@ post_date: 2020-02-17 04:12:58
 <p>With each house centered around its own philosophy, <a rel="noreferrer noopener" href="https://www.maanahomes.com/kyotooverview" target="_blank">Maana Kyoto</a> being <em>Simple Living</em> and <a rel="noreferrer noopener" href="https://www.maanahomes.com/kamooverview" target="_blank">Kamo</a> being<em> Silence Within</em>, the space was intended to allow for self discovery and quiet contemplation. The interplay of light, shadows and forms, in collaboration with the still ambiance of Kyoto air brings an aura that cannot be put into words, and is one that guests need to feel for themselves.&nbsp;</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1973,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://piecesofjapan.com/wp-content/uploads/2020/02/maana_post03.jpg" alt="" class="wp-image-1973"/></figure>
+<!-- wp:image {"id":1988,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://piecesofjapan.com/wp-content/uploads/2020/02/maana_post03-1.jpg" alt="" class="wp-image-1988"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":1975,"sizeSlug":"large"} -->
