@@ -30,7 +30,7 @@ https://www.instagram.com/p/B80ij3Eh1kl/?igshid=1mb7cutfmsdg6
 <!-- /wp:core-embed/instagram -->
 
 <!-- wp:paragraph -->
-<p><strong>How did this collaboration with Karimoku Case Study come to be?</strong></p>
+<p><br><strong>How did this collaboration with Karimoku Case Study come to be?</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
