@@ -46,7 +46,7 @@ https://www.instagram.com/p/B80ij3Eh1kl/?igshid=1mb7cutfmsdg6
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong>Who is the intended target market for this collaboration? Is it more for the European audience or Japanese?</strong></p>
+<p><br><strong>Who is the intended target market for this collaboration? Is it more for the European audience or Japanese?</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -62,7 +62,7 @@ https://www.instagram.com/p/B80ij3Eh1kl/?igshid=1mb7cutfmsdg6
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong>In the process of working with Japanese designers, was there anything you learned from them or vice versa? How was the working relationship?</strong></p>
+<p><br><strong>In the process of working with Japanese designers, was there anything you learned from them or vice versa? How was the working relationship?</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -78,7 +78,7 @@ https://www.instagram.com/p/B80ij3Eh1kl/?igshid=1mb7cutfmsdg6
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong>How is the general response to this collaboration?</strong></p>
+<p><br><strong>How is the general response to this collaboration?</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -90,7 +90,7 @@ https://www.instagram.com/p/B80ij3Eh1kl/?igshid=1mb7cutfmsdg6
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong>You’ve collaborated with a number of Japanese brands. Has Norm Architects actively been pursuing work with Japan or did one thing lead to another?</strong></p>
+<p><br><strong>You’ve collaborated with a number of Japanese brands. Has Norm Architects actively been pursuing work with Japan or did one thing lead to another?</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
